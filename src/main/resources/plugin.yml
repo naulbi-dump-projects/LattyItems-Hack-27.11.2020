@@ -1,0 +1,3 @@
+name: LattyItems-Hack
+version: ${project.version}
+main: ru.zentofx.lattyitems.listeners.PlayerListener
